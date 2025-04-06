@@ -23,7 +23,7 @@ A lightweight tool to create TCP or UDP servers for receiving messages. Built fo
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tcp-udp-server.git
+   git clone https://github.com/kk3rn3l/tcp-udp-server.git
    cd tcp-udp-server
    ```
 2. Make the Python scripts executable (optional):
