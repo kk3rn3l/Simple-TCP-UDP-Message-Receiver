@@ -106,6 +106,6 @@ Contributions are welcome!
 ---
 
 ## Disclaimer
-Use this tool responsibly and only on networks you own/have permission to test. The authors are not responsible for misuse.
+Use this tool responsibly and only on networks you own/have permission to test. The authors is not responsible for misuse.
 
 ---
